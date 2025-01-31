@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-01-31T12:49:47 IST" name="Default suite" finished-at="2025-01-31T12:49:51 IST" duration-ms="3281">
+    <groups>
+    </groups>
+    <test started-at="2025-01-31T12:49:47 IST" name="Default test" finished-at="2025-01-31T12:49:51 IST" duration-ms="3281">
+      <class name="ApiTesting.CoinDesk">
+        <test-method signature="coinGetAPI()[pri:0, instance:ApiTesting.CoinDesk@1623b78d]" started-at="2025-01-31T12:49:48 IST" name="coinGetAPI" finished-at="2025-01-31T12:49:51 IST" duration-ms="3213" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- coinGetAPI -->
+      </class> <!-- ApiTesting.CoinDesk -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
